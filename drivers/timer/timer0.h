@@ -12,6 +12,7 @@
  */
 void Timer0_Init(void);
 
+
 /**
  * @brief Get the number of milliseconds since startup.
  * 
